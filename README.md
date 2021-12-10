@@ -1,4 +1,4 @@
-# Python-ImageProcessing_statistics
+# ImageProcessing_statistics
 影像處裡期末作業<br>
 使用Anaconda的Jupyter Notebook編譯執行程式
 
