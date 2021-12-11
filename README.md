@@ -1,5 +1,6 @@
 # ImageProcessing_statistics
-影像處裡期末作業<br>
+
+課程:影像處理 期末作業<br>
 使用Anaconda的Jupyter Notebook編譯執行程式
 
 目標:找出布破洞、瑕疵<br>
